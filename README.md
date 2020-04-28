@@ -1,3 +1,3 @@
-# area51
+# stardust-data
 
 Advanced topics for deep study
